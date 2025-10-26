@@ -1,4 +1,4 @@
-# Regress-o-Logistica-Ciencia-de-dados
+# Regressao-Logistica-Ciencia-de-dados
 ### Atividades sobre Regressão Logística do Modulo 18 do Curso de Ciência de Dados da EBAC
 Nestes exercícios trabalhamos com a base "Heart Disease Data Set" disponível no site do [UCI](https://archive.ics.uci.edu/dataset/45/heart+disease).
 
